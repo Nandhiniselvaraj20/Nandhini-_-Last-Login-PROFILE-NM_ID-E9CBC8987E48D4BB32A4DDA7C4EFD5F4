@@ -1,0 +1,7 @@
+int ab
+{
+Printf("\n enter the value a");
+scanf("%d",a);
+printf("\n enter the value b");
+scanf("%d",b);
+}
